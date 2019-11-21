@@ -38,7 +38,7 @@ function fib(n){
 | ------ | ----------- |
 | Table thing one  |*their called arguments* |
 | Table Thing two | **No, their called parameters** |
-| Table thing three| `I dont care` |
+| Table thing three| `Actaully, their called cells.` |
 
 
 * Top list       
