@@ -31,7 +31,7 @@ function fib(n){
 ```
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
-| Tables | fun |
+| Colum | Colum |
 | ------ | ----------- |
 | Table thing one  |*their called arguments* |
 | Table Thing two | **No, their called parameters** |
