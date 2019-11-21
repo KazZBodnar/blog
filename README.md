@@ -3,7 +3,7 @@
 # Blog template
 ## A template for markdown blogs with GitHub pages
 ![Wow, an image](/assets/img/md_logo.png)
-## Instructions for deploying this blog template
+# Instructions for deploying this blog template
 If you plan on using this in your website, just click "Use this template" or fork this repo.     
 I highly recommend [dillinger markdown editor](https://dillinger.io/) for editing markdown files. [repl.it](https://repl.it)
 is also good.    
