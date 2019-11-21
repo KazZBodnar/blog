@@ -58,7 +58,5 @@ function fib(n){
 - List item 3  
 [Go to my website](https://kazmal.tech)  
 ~~strikethrough~~
-::: warning
-*here be dragons*
-:::
+
 
