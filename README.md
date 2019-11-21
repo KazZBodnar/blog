@@ -33,9 +33,6 @@ function fib(n){
 }
 ```
 
-::: warning
-*Colors!*
-:::
 
 | Tables | fun |
 | ------ | ----------- |
@@ -61,3 +58,7 @@ function fib(n){
 - List item 3  
 [Go to my website](https://kazmal.tech)  
 ~~strikethrough~~
+::: warning
+*here be dragons*
+:::
+
