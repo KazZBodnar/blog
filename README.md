@@ -27,11 +27,11 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 *Italic*  
 **Bold**  
 **_Bold and italic_**  
-### Block Quotes
+### Block quotes
 > Intelligence is the ability to avoid doing work, yet getting the work done.    
 > -Linus Torvalds
 
-### Superscript and 
+### Superscript and subscript
 #
 ##### Superscript semonstrated by Einstein famous Mass–energy equivalence
 E=MC<sup>2</sup>  
