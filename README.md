@@ -128,9 +128,7 @@ function fib(n){
 - List item 2  
 - List item 3  
 ```
-[The repo for this template](https://github.com/kazmalhotra/blog)  
-[Go to my website](https://kazmal.tech)  
-[Go to the live version of this file](https://kazmal.tech/blog)  
+
 ### Strikethrough
 #### Renders as
 ~~the earth is flat~~
@@ -139,6 +137,9 @@ function fib(n){
 ~~the earth is flat~~
 ```
 
+[The repo for this template](https://github.com/kazmalhotra/blog)  
+[Go to my website](https://kazmal.tech)  
+[Go to the live version of this file](https://kazmal.tech/blog)  
 
 (c) Kaz Malhotra 2019
 
