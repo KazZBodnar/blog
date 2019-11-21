@@ -29,7 +29,7 @@ Multi line code block
 In markdown makes a haiku
 Japanese poem
 ```    
-
+With JS syntax highlighting
 ``` js
 function fib(n){
   if(n < 2) return n;
@@ -53,7 +53,7 @@ function fib(n){
     3. *Ack*
 
 
-1. **List item** 
+1. List item 
 2. *List item*  
 3. **_List item_**
 
