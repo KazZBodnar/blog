@@ -16,8 +16,6 @@ F<sub>n</sub>=F<sub>n-1</sub>+F<sub>n-2</sub>
 ==Colors!==  
 
 
-<span style="color:red">red</span> <span style="color:green">green</span> <span style="color:blue">blue</span>
-
 
 
 `Wow, code block`
@@ -26,6 +24,25 @@ multi line code block
 see   
 so cool
 ```    
+
+``` js
+function fib(n){
+  if(n < 2) return n;
+  
+  return fib(n - 1) + fib(n - 2);
+}
+```
+
+::: warning
+*Colors!*
+:::
+
+| Tables | fun |
+| ------ | ----------- |
+| Table thing one  |*their called arguments* |
+| Table Thing two | **No, their called parameters** |
+| Table thing three| `I dont care` |
+
 
 * Top list       
     *Other thing
