@@ -76,10 +76,10 @@ function fib(n){
 - List item 1  
 - List item 2  
 - List item 3  
+
+~~strikethrough~~
+
 [The repo for this template](https://github.com/kazmalhotra/blog)  
 [Go to my website](https://kazmal.tech)  
 [Go to the live version of this file](https://kazmal.tech/blog)  
-~~strikethrough~~
-
-
 (c) Kaz Malhotra 2019
