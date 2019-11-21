@@ -9,6 +9,8 @@ A template for markdown blogs with GitHub pages
 *Italic*  
 **BOLD**  
 >Blockquote  
+
+
 ==Colors!==  
 
 `Wow, code block`
