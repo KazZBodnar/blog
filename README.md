@@ -29,8 +29,6 @@ function fib(n){
   return fib(n - 1) + fib(n - 2);
 }
 ```
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
 | Colum | Different colum |
 | ------ | ----------- |
 | Table thing one  |*their called arguments* |
