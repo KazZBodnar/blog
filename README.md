@@ -29,7 +29,7 @@ function fib(n){
   return fib(n - 1) + fib(n - 2);
 }
 ```
-
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
 | Tables | fun |
 | ------ | ----------- |
@@ -57,3 +57,4 @@ function fib(n){
 ~~strikethrough~~
 
 
+(c) Kaz Malhotra 2019
