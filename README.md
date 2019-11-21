@@ -8,8 +8,7 @@ If you plan on using this on your website, just click "Use this template" or for
 I highly recommend [dillinger markdown editor](https://dillinger.io/) for editing markdown files. [repl.it](https://repl.it)
 is also good.    
 This repo has gh-pages as it's default branch. This will automatically put your README.MD file (this file) on yourusername.github.io/blog. 
-#
-#
+
 # Markdown syntax and examples
 # Heading 1
 ## Heading 2  
@@ -17,10 +16,7 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 #### Heading 4
 ##### Heading 5
 ###### Heading 6    
-####
-####
-####
-####
+
 
 ### Text styling
 \*ignore markdown characters\*  
@@ -32,7 +28,7 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 > -Linus Torvalds
 
 ### Superscript and subscript
-####
+
 ##### Superscript demonstrated by Einstein famous Mass–energy equivalence
 E=MC<sup>2</sup>  
 ##### Subscript demonstrated by the equation for finding the Nth Fibonacci number recursively
