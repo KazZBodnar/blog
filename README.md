@@ -3,8 +3,14 @@
 # Blog template
 ## A template for markdown blogs with GitHub pages
 ![Wow, an image](/assets/img/md_logo.png)
+## Instructions for deploying this blog template
+If you plan on using this in your website, just click "Use this template" or fork this repo.     
+I highly recommend [dillinger markdown editor](https://dillinger.io/) for editing markdown files. [repl.it](https://repl.it)
+is also good.    
+This repo has gh-pages as it's default branch. This will automatically put your README.MD file (this file) on yourusername.github.io/blog. 
 
-# Heading  
+# Markdown syntax and examples
+# Heading 1
 ## Heading 2  
 ### Heading 3  
 #### Heading 4
@@ -18,6 +24,7 @@
 **_Bold and italic_**
 > Intelligence is the ability to avoid doing work, yet getting the work done.    
 > -Linus Torvalds
+
 
 E=MC<sup>2</sup>  
 F<sub>n</sub>=F<sub>n-1</sub>+F<sub>n-2</sub>
