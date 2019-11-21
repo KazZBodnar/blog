@@ -57,8 +57,8 @@ function fib(n){
 | Column | Different column |
 | ------ | ----------- |
 | Table thing one  |*their called arguments* |
-| Table Thing two | **No, their called parameters** |
-| Table thing three| `Actually, their called cells.` |
+| Row | **No, their called parameters** |
+| Cell| `Actually, their called cells.` |
 
 ### Lists
 * Top list       
