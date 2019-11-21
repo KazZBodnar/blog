@@ -12,12 +12,12 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 # Markdown syntax and examples
 ## Contents
 ### * [Headings](https://github.com/KazMalhotra/blog#heading-1)   
-### * [Text styling](https://github.com/KazMalhotra/blog#text-styling)
-### * [Block Quotes](https://github.com/KazMalhotra/blog#block-quotes)  
-### * [Superscript and Subscript](https://github.com/KazMalhotra/blog#superscript-and-subscript)  
-### * [Code blocks](https://github.com/KazMalhotra/blog#code-blocks)  
-### * [Tables](https://github.com/KazMalhotra/blog#tables)
-### * [Lists](https://github.com/KazMalhotra/blog#lists)
+### * [Text styling](https://kazmal.tech/blog#text-styling)
+### * [Block Quotes](https://kazmal.tech/blog#block-quotes)  
+### * [Superscript and Subscript](https://kazmal.tech/blog#superscript-and-subscript)  
+### * [Code blocks](https://kazmal.tech/blog#code-blocks)  
+### * [Tables](https://kazmal.tech/blog#tables)
+### * [Lists](https://kazmal.tech/blog#lists)
 # Heading 1
 ## Heading 2  
 ### Heading 3  
@@ -88,5 +88,7 @@ function fib(n){
 
 
 (c) Kaz Malhotra 2019
+
+
 
 
