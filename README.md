@@ -8,7 +8,8 @@ A template for markdown blogs with GitHub pages
 \*ignore markdown charecters\*  
 *Italic*  
 **BOLD**  
->Blockquote  
+>> Intelligence is the ability to avoid doing work, yet getting the work done.
+> -Linus Torvalds
 
 E=MC<sup>2</sup>  
 F<sub>n</sub>=F<sub>n-1</sub>+F<sub>n-2</sub>
