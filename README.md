@@ -50,7 +50,7 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 
 ### Superscript and subscript
 #### Renders as
-##### Superscript demonstrated by Einstein famous Mass–energy equivalence
+##### Superscript demonstrated by Einstein's famous Mass–energy equivalence
 E=MC<sup>2</sup>  
 ##### Subscript demonstrated by the equation for finding the Nth Fibonacci number recursively
 F<sub>n</sub>=F<sub>n-1</sub>+F<sub>n-2</sub>
