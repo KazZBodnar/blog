@@ -4,7 +4,7 @@
 ## A template for markdown blogs with GitHub pages
 ![Markdown logo](/assets/img/md_logo.png)
 # Instructions for deploying this blog template
-If you plan on using this in your website, just click "Use this template" or fork this repo.     
+If you plan on using this on your website, just click "Use this template" or fork this repo.     
 I highly recommend [dillinger markdown editor](https://dillinger.io/) for editing markdown files. [repl.it](https://repl.it)
 is also good.    
 This repo has gh-pages as it's default branch. This will automatically put your README.MD file (this file) on yourusername.github.io/blog. 
@@ -23,7 +23,7 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 ####
 
 ### Text styling
-\*ignore markdown charecters\*  
+\*ignore markdown characters\*  
 *Italic*  
 **Bold**  
 **_Bold and italic_**  
@@ -41,7 +41,7 @@ F<sub>n</sub>=F<sub>n-1</sub>+F<sub>n-2</sub>
 ### Code blocks
 `Wow, code block`
 ```
-Multi line code block  
+Multi-line code block  
 In markdown, makes a haiku
 Japanese poem
 ```    
@@ -54,11 +54,11 @@ function fib(n){
 ```
 
 ### Tables
-| Colum | Different colum |
+| Column | Different column |
 | ------ | ----------- |
 | Table thing one  |*their called arguments* |
 | Table Thing two | **No, their called parameters** |
-| Table thing three| `Actaully, their called cells.` |
+| Table thing three| `Actually, their called cells.` |
 
 ### Lists
 * Top list       
@@ -83,3 +83,5 @@ function fib(n){
 
 
 (c) Kaz Malhotra 2019
+
+
