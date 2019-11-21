@@ -8,7 +8,7 @@ A template for markdown blogs with GitHub pages
 \*ignore markdown charecters\*  
 *Italic*  
 **BOLD**  
->     Intelligence is the ability to avoid doing work, yet getting the work done.    
+> Intelligence is the ability to avoid doing work, yet getting the work done.    
 > -Linus Torvalds
 
 E=MC<sup>2</sup>  
