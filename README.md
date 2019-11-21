@@ -16,7 +16,7 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 ### * [Block Quotes](https://kazmal.tech/blog#block-quotes)  
 ### * [Superscript and Subscript](https://kazmal.tech/blog#superscript-and-subscript)  
 ### * [Code blocks](https://kazmal.tech/blog#code-blocks)  
-### * [Tables](https://kazmal.tech/blog#tables)
+### * [Tables](https://github.com/kazmalhotra/blog#tables)
 ### * [Lists](https://kazmal.tech/blog#lists)
 # Heading 1
 ## Heading 2  
