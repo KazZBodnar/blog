@@ -50,7 +50,7 @@ function fib(n){
 ```
 
 ### Tables
-##### Note: Tables sometimes render incorrectly when bieng viewed in a browser. If you are having this issue, view this file at [here](https://github.com/KazMalhotra/blog/blob/gh-pages/README.md)
+##### Note: Tables sometimes render incorrectly when bieng viewed in a browser. If you are having this issue, view this file  [here](https://github.com/KazMalhotra/blog/blob/gh-pages/README.md)
 | Column | Different column |
 | ------ | ----------- |
 | Table thing one  |*their called arguments* |
