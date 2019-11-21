@@ -8,32 +8,41 @@ If you plan on using this in your website, just click "Use this template" or for
 I highly recommend [dillinger markdown editor](https://dillinger.io/) for editing markdown files. [repl.it](https://repl.it)
 is also good.    
 This repo has gh-pages as it's default branch. This will automatically put your README.MD file (this file) on yourusername.github.io/blog. 
-
+#
+#
 # Markdown syntax and examples
 # Heading 1
 ## Heading 2  
 ### Heading 3  
 #### Heading 4
 ##### Heading 5
-###### Heading 6
+###### Heading 6    
+#
+#
+#
+#
 
-
+### Text styling
 \*ignore markdown charecters\*  
 *Italic*  
 **Bold**  
-**_Bold and italic_**
+**_Bold and italic_**  
+### Block Quotes
 > Intelligence is the ability to avoid doing work, yet getting the work done.    
 > -Linus Torvalds
 
-
+### Superscript and 
+#
+##### Superscript semonstrated by Einstein famous Mass–energy equivalence
 E=MC<sup>2</sup>  
+##### Subscript demonstrated by the equation for finding the Nth Fibonacci number recursively
 F<sub>n</sub>=F<sub>n-1</sub>+F<sub>n-2</sub>
 
-
+### Code blocks
 `Wow, code block`
 ```
 Multi line code block  
-In markdown makes a haiku
+In markdown, makes a haiku
 Japanese poem
 ```    
 With JS syntax highlighting
@@ -44,14 +53,14 @@ function fib(n){
 }
 ```
 
-
+### Tables
 | Colum | Different colum |
 | ------ | ----------- |
 | Table thing one  |*their called arguments* |
 | Table Thing two | **No, their called parameters** |
 | Table thing three| `Actaully, their called cells.` |
 
-
+### Lists
 * Top list       
     *-Other thing*
 * Top list 2 
