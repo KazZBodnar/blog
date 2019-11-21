@@ -17,10 +17,10 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 #### Heading 4
 ##### Heading 5
 ###### Heading 6    
-#
-#
-#
-#
+####
+####
+####
+####
 
 ### Text styling
 \*ignore markdown charecters\*  
@@ -32,7 +32,7 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 > -Linus Torvalds
 
 ### Superscript and subscript
-#
+####
 ##### Superscript semonstrated by Einstein famous Mass–energy equivalence
 E=MC<sup>2</sup>  
 ##### Subscript demonstrated by the equation for finding the Nth Fibonacci number recursively
