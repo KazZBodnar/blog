@@ -16,7 +16,9 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 ### * [Code blocks](https://kazmal.tech/blog#code-blocks)  
 ### * [Tables](https://github.com/kazmalhotra/blog#tables)
 ### * [Lists](https://kazmal.tech/blog#lists)
+### * [Links](https://kazmal.tech/blog#links)
 ### * [Strikethrough](https://kazmal.tech/blog#strikethrough)
+
 # Heading 1
 ## Heading 2  
 ### Heading 3  
@@ -128,7 +130,11 @@ function fib(n){
 - List item 2  
 - List item 3  
 ```
-
+### Links
+#### Renders as
+[Go to my website](https://kazmal.tech)  
+#### Source
+`[Go to my website](https://kazmal.tech)  `
 ### Strikethrough
 #### Renders as
 ~~the earth is flat~~
