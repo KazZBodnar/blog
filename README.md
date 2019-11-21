@@ -31,11 +31,11 @@ function fib(n){
 ```
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
-| Colum | Colum |
+| Colum | Different colum |
 | ------ | ----------- |
 | Table thing one  |*their called arguments* |
-| Table Thing two | **No, their called parameters** |
-| Table thing three| `Actaully, their called cells.` |
+| Row 2| **No, their called parameters** |
+| Cell| `Actaully, their called cells.` |
 
 
 * Top list       
