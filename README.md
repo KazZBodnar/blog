@@ -14,10 +14,6 @@
 E=MC<sup>2</sup>  
 F<sub>n</sub>=F<sub>n-1</sub>+F<sub>n-2</sub>
 
-==Colors!==  
-
-
-
 
 `Wow, code block`
 ```
