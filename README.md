@@ -10,7 +10,7 @@ is also good.
 This repo has gh-pages as it's default branch. This will automatically put your README.MD file (this file) on yourusername.github.io/blog. 
 
 # Markdown syntax and examples
-# Contents
+## Contents
 ### * [Headings](https://github.com/KazMalhotra/blog#heading-1)   
 ### * [Text styling](https://github.com/KazMalhotra/blog#text-styling)
 ### * [Block Quotes](https://github.com/KazMalhotra/blog#block-quotes)  
