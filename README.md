@@ -21,6 +21,15 @@ multi line code block
 see   
 so cool
 ```    
+
+* Top list
+    *Other thing
+* Top list 2
+    1. Foo
+    2. Bar
+    3. Ack
+
+
 1. List item  
 2. List item  
 3. List item  
