@@ -1,5 +1,5 @@
 # Blog template
-A template for markdown blogs with GitHub pages
+## A template for markdown blogs with GitHub pages
 ![Wow, an image](/assets/img/image.png)
 
 # Heading  
