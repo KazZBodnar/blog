@@ -53,6 +53,7 @@ function fib(n){
 - List item 3  
 [The repo for this template](https://github.com/kazmalhotra/blog)  
 [Go to my website](https://kazmal.tech)  
+[Go to the live version of this file](https://kazmal.tech/blog)  
 ~~strikethrough~~
 
 
