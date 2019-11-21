@@ -14,7 +14,7 @@
 
 \*ignore markdown charecters\*  
 *Italic*  
-**BOLD**  
+**Bold**  
 **_Bold and italic_**
 > Intelligence is the ability to avoid doing work, yet getting the work done.    
 > -Linus Torvalds
