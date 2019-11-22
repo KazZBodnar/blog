@@ -46,8 +46,8 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 > -Linus Torvalds
 #### Source 
 ```
-\> Intelligence is the ability to avoid doing work, yet getting the work done.    
-\> -Linus Torvalds
+> Intelligence is the ability to avoid doing work, yet getting the work done.    
+> -Linus Torvalds
 ```
 
 ### Superscript and subscript
