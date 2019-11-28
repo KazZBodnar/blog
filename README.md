@@ -18,6 +18,7 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 ### * [Lists](https://kazmal.tech/blog#lists)
 ### * [Links](https://kazmal.tech/blog#links)
 ### * [Strikethrough](https://kazmal.tech/blog#strikethrough)
+###  [Go to a blog post](posts/1.html)
 
 # Heading 1
 ## Heading 2  
