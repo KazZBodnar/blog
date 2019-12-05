@@ -18,19 +18,28 @@ This repo has gh-pages as it's default branch. This will automatically put your 
 ### * [Code blocks](https://kazmal.tech/blog#code-blocks)  
 ### * [Tables](https://kazmal.tech/blog#tables)
 ### * [Lists](https://kazmal.tech/blog#lists)
+### * [Dividers](https://kazmal.tech/blog#dividers)
 # Heading 1
+\# Heading
 ## Heading 2  
+\#\# Heading
 ### Heading 3  
+\#\#\# Heading
 #### Heading 4
+\#\#\#\# Heading
 ##### Heading 5
+\#\#\#\#\# Heading
 ###### Heading 6    
+\#\#\#\#\#\# Heading
 
 
 ### Text styling
 \*ignore markdown characters\*  
 *Italic*  
 **Bold**  
-**_Bold and italic_**  
+**_Bold and italic_** 
+
+~~Strikethrough~~
 ### Block quotes
 > Intelligence is the ability to avoid doing work, yet getting the work done.    
 > -Linus Torvalds
@@ -81,6 +90,11 @@ function fib(n){
 - List item 1  
 - List item 2  
 - List item 3  
+
+### Dividers
+
+\*\*\* or \-\-\-
+***
 [The repo for this template](https://github.com/kazmalhotra/blog)  
 [Go to my website](https://kazmal.tech)  
 [Go to the live version of this file](https://kazmal.tech/blog)  
